@@ -1,7 +1,9 @@
 ## Caledonia's 98271G - _Gear Goblins_
 Team Members: Isaac Robotham and James Diegel 
+#### Contents
+(August 30)[https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#about-the-team]
 
-## About the Team
+#### About the Team
 About Isaac: I am a sophmore in highschool. I play tennis on the Caledonia Varsity team. I also do marching band where I play the Bari Saxophone. I like to do cybersecurity related things as a hobby along with playing video games.
 About James: I am also a sophmore at Caledonia. I'm on JV Tennis, Sypmphony Orchestra, and Vex Robotics! Originally in sixth grade, I joined robotics, introducing me to coding and putting me on my path to study software design past high school.
 #### August 30, 2023
