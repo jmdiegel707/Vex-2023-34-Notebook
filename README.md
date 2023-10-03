@@ -2,7 +2,9 @@
 Team Members: Isaac Robotham and James Diegel 
 #### Contents
 [About The Team](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#about-the-team)
+
 [August 30](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#august-30-2023)
+
 [September 5](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#september-5-2023)
 #### About the Team
 
