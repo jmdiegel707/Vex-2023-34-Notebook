@@ -22,8 +22,10 @@ Besides the program requrements like contracts, inventory, choosing competition 
 - Descoring
 - Crossing the middle bar
 - Elevating the bot
-<br>At face value the game seemed fairly simple and we couldn't see any exploits. We based our design based on these factors, and though we made the mistake of not drawing anything out, we decided a push bot would be effective enough. A main point of design for our bot is the wheels. We choose mecanum wheels due to their great traction for pushing triballs under the bars while scoring/descoring, the shape which allows us to "grab" onto and climb over the middle bar, and the bonus of extra mobility.
-<br>Quickly we discovered through other teams some exploits that may be used. They explained how a catapult could be used to launch preloads at high speeds to the other side, even during autonomous period (we have yet to reference the rules if this is legal). While there may not be much to combat this, we can add this to the list of factors to think of while designing.
+
+At face value the game seemed fairly simple and we couldn't see any exploits. We based our design based on these factors, and though we made the mistake of not drawing anything out, we decided a push bot would be effective enough. A main point of design for our bot is the wheels. We choose mecanum wheels due to their great traction for pushing triballs under the bars while scoring/descoring, the shape which allows us to "grab" onto and climb over the middle bar, and the bonus of extra mobility.
+
+Quickly we discovered through other teams some exploits that may be used. They explained how a catapult could be used to launch preloads at high speeds to the other side, even during autonomous period (we have yet to reference the rules if this is legal). While there may not be much to combat this, we can add this to the list of factors to think of while designing.
 
 #### September 5, 2023
 Second Practice
