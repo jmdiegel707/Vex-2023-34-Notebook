@@ -17,47 +17,47 @@ Coach: Andy Robotham
 #### August 30, 2023
 First Practice
 
-Besides the program requrements like contracts, inventory, choosing competition dates, team name, and shirts, we jumped straight into the brainstorming phase. We started by anylizing this years game and picking out the main features to tackle:
+Besides the program requirements like contracts, inventory, choosing competition dates, team name, and shirts, we jumped straight into the brainstorming phase. We started by analyzing this years game and picking out the main features to tackle:
 - Scoring
 - Descoring
 - Crossing the middle bar
 - Elevating the bot
 
-At face value the game seemed fairly simple and we couldn't see any exploits. We based our design based on these factors, and though we made the mistake of not drawing anything out, we decided a push bot would be effective enough. A main point of design for our bot is the wheels. We choose mecanum wheels due to their great traction for pushing triballs under the bars while scoring/descoring, the shape which allows us to "grab" onto and climb over the middle bar, and the bonus of extra mobility.
+At face value the game seemed fairly simple and we couldn't see any exploits. We based our design based on these factors, and though we made the mistake of not drawing any designs out, we decided a push bot would be effective enough. A main point of design for our bot is the wheels. We choose mecanum wheels due to their great traction for pushing triballs under the bars while scoring/descoring, the shape which allows us to "grab" onto and climb over the middle bar, and the bonus of extra mobility.
 
 Quickly we discovered through other teams some exploits that may be used. They explained how a catapult could be used to launch preloads at high speeds to the other side, even during autonomous period (we have yet to reference the rules if this is legal). While there may not be much to combat this, we can add this to the list of factors to think of while designing.
 
 #### September 5, 2023
 Second Practice
 
-The second practice we started constructing our base along with deciding to do mecanum wheels for better side to side mobility. We got the base done along with the wheels and electronics attached. We got the coding done and did some driving.
+Because of the simple nature of our design, we sort of traded off work during this practice. For about the first half, Isaac built our chassis. We wanted our wheels exposed in order to climb over the middle bar easier. Because of this he took more time to reinforce the frame then we unspokenly traded off for James to assemble the wheels. After putting the wheels on, the bot seemed surprisingly sturdy and functional for the speed it was constructed. We threw together a simple drive code and while the tank drive (Left axis on controller controls left wheels; Right axis, right motors) functioned properly, the explicit side to side movements did not. When attempting to drive left, the robot spun counter-clockwise, and when going right, it did not move at all.
 
 #### September 12, 2023
 Third Practice
 
-The third practice we decided to have an outside bar to protect our wheels more. We deconstructed our robot and re-cut and fit it so that we could have wheel protection. We designed it in a way to have more strength, but also be able to go over the center bar. The design we settled on met all current requirements.
+We focused first on correcting mistakes from the first practice: Drive code, and a new problem we discovered, the exposed wheels allowed the axles to warp.
+After correcting the code, which took a few trips to the practice field, we had a fully fuctioning tank drive and explicit side to side working. With that out of the way, we focused on the wheel instability. This raised yet another problem: we need the front and back of the wheels exposed and further out than the rest of the bot to catch onto the middle bar properly. This was a simple enough fix as we added c-channels on either side of the bot to stabilize the wheels, then secured those bars with two more going perpendicular on top and on bottom of the robot to secure it to the chassis.
+
+We then began brainstorming more efficient ways to get triballs over the middle bar, beacuse our bot can, but the balls don't always.
 
 #### September 14, 2023
 Fourth Practice
 
-The fourth practice we finalized coding and got all of the special coding for mecanum wheels done. We then decided to create a pusher on the front desinged for ease of pushing blocks around and to be able to effectivly push them over the middle bar.
+We spent the whole practice brainstorming (and a little bit of socializing) how to get triballs over the middle. While some were in the right orientation to slide right over, others would press under the bar, where they obviously won't fit. We decided we needed a plate on an incline that was just low enough to scoop under the ball. While that gets the balls unstuck and pushes them up as you drive towards the mid-bar, the ball sometimes fell back onto our bot and gets stuck there. We eventually realized we needed a second vertical plate about an inch behind the first inclined one to help fully push the ball over the middle.
 
 #### September 19, 2023
 Fifth Practice
 
-The fifth practice we got measurements and materials for building the pusher. With a little bit of tweaking we were able to add on the additions and test them out. They worked succesfully and we spent the practice testing mobility and how we could easily move blocks around. We also thought about some strategys.
+We constructed the buldozer design we dicussed last practice. It took us longer than it should have.
 
 #### September 26, 2023
 Sixth Practice
 
-The sixth practice we brainstormed ideas for being able to climb and the best way to do it. We came up with a couple different designs but didn't settle on one.
-
-#### September 28, 2023
-Seventh Practice
-
-The seventh practice we continued to brainstorm and got an idea we think will work. We just have to figure out how to attach it to our robot because currently our design doesn't fit the idea very well.
+Tonight was a brainstorming night. With our bot fairly stable, we needed to expand. We mainly brainstormed ideas for elevating the robot and a little about a catapult.
 
 #### October 3, 2023
 Eighth Practice
+
+This notebook was written horribly, so while Isaac looked at videos of other programs and teams' bots for ideas, James rewrote the previous few practices.
 
 
