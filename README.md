@@ -56,7 +56,7 @@ Sixth Practice
 Tonight was a brainstorming night. With our bot fairly stable, we needed to expand. We mainly brainstormed ideas for elevating the robot and a little about a catapult.
 
 #### October 3, 2023
-Eighth Practice
+Seventh Practice
 
 This notebook was written horribly, so while Isaac looked at videos of other programs and teams' bots for ideas, James rewrote the previous few practices.
 
