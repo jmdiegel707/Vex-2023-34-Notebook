@@ -59,6 +59,8 @@ Tonight was a brainstorming night. With our bot fairly stable, we needed to expa
 Seventh Practice
 
 This notebook was originally written poorly, so while Isaac looked at videos of other programs and teams' bots for ideas, James rewrote the previous few practices.
-Later, we  began looking into the programming. While our wheels give us the capability to strafe and move in 4 dementions, we were only taking advantage of forward/backward movement, and inherintly turning. We found a useful diagram of all the movement that mecanum wheels offer 
+Later, we  began looking into the programming. While our wheels give us the capability to strafe and move in 4 dementions, we were only taking advantage of forward/backward movement, and inherintly turning. We found a useful diagram of all the movement that mecanum wheels offer:
+
+[Hehehehe blah blah blah](assets/c7963dec531b7e893ddcf91c4fc9159928c4b56c.jpg)
 
 #### 
