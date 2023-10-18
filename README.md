@@ -61,7 +61,7 @@ Seventh Practice
 This notebook was originally written poorly, so while Isaac looked at videos of other programs and teams' bots for ideas, James rewrote the previous few practices.
 Later, we  began looking into the programming. While our wheels give us the capability to strafe and move in 4 dementions, we were only taking advantage of forward/backward movement, and inherintly turning. We found a useful diagram of all the movement that mecanum wheels offer:
 
-<img href="/assets/c7963dec531b7e893ddcf91c4fc9159928c4b56c.jpg" width=60%>
+<img href="/assets/c7963dec531b7e893ddcf91c4fc9159928c4b56c.jpg">
 
 Using these, we set up the program so the horizontal and vertical axis on the controller correspond to different variables in the code. We went through 6 or 7 different relationships before we reached a working program. The bot can now strafe.
 
@@ -89,4 +89,5 @@ Given that
 
 Thoughts on elevation:
 In our first league the other night, we saw many robot try to do essentially a pull-up on the horizontal part of the elevation bar, but they weren't strong enough to hold. Plus, when the match ends, the motors deactivate, so breaks don't work either. Isaac proposed a mechanism that uses tension like a tree stand does.
+
 <img href="assets/RE557-120719-4403-WEB_1200x1200.webp">
