@@ -10,6 +10,22 @@ Coach: Andy Robotham
 
 [September 5](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#september-5-2023)
 
+[September 12](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#september-12-2023)
+
+[September 14](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#september-14-2023)
+
+[September 19](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#september-19-2023)
+
+[September 26](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#september-26-2023)
+
+[October 3](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#october-3-2023)
+
+[October 12](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#october-12-2023)
+
+[October 17](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#october-17-2023)
+
+[October 26](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#october-26-2023)
+
 #### About the Team
 - __Isaac:__ I am a sophmore in highschool. I play tennis on the Caledonia Varsity team. I also do marching band where I play the Bari Saxophone. I like to do cybersecurity related things as a hobby along with playing video games.
 - __James:__ I am also a sophmore at Caledonia. I'm on JV Tennis, Sypmphony Orchestra, and Vex Robotics! Originally in sixth grade, I joined robotics, introducing me to coding and putting me on my path to study software design past my high school education.
@@ -66,7 +82,7 @@ Later, we  began looking into the programming. While our wheels give us the capa
 Using these, we set up the program so the horizontal and vertical axis on the controller correspond to different variables in the code. We went through 6 or 7 different relationships before we reached a working program. The bot can now strafe.
 
 #### October 12, 2023
-League Night
+First League Night
 
 Notes:
 - Accidentally violated double-zoning rule.
@@ -90,4 +106,9 @@ Given that
 Thoughts on elevation:
 In our first league the other night, we saw many robot try to do essentially a pull-up on the horizontal part of the elevation bar, but they weren't strong enough to hold. Plus, when the match ends, the motors deactivate, so breaks don't work either. Isaac proposed a mechanism that uses tension like a tree stand does.
 
-![](img href="assets/RE557-120719-4403-WEB_1200x1200.webp)
+![](assets/RE557-120719-4403-WEB_1200x1200.webp)
+
+#### October 26, 2023
+Second League Night
+
+Notes:
