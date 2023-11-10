@@ -26,6 +26,8 @@ Coach: Andy Robotham
 
 [October 26](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#october-26-2023)
 
+[November 7](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#november-7-2023)
+
 #### About the Team
 - __Isaac:__ I am a sophmore in highschool. I play tennis on the Caledonia Varsity team. I also do marching band where I play the Bari Saxophone. I like to do cybersecurity related things as a hobby along with playing video games.
 - __James:__ I am also a sophmore at Caledonia. I'm on JV Tennis, Sypmphony Orchestra, and Vex Robotics! Originally in sixth grade, I joined robotics, introducing me to coding and putting me on my path to study software design past my high school education.
@@ -111,4 +113,14 @@ In our first league the other night, we saw many robot try to do essentially a p
 #### October 26, 2023
 Second League Night
 
+Notes: We learned more about the rules and the strategy involved with playing the game.
+
+### Novemeber 7, 2023
+Third League Night
+
 Notes:
+- Able to elevate by balancing between the two perpendicular black bars.
+  - Due to the concavity of the plate on the front of our bot, it wasn't originally touching the colored elevation bar.
+  - One round, a wire sticking out front (not in jeporady of getting stuck in mechanics) touched the elevation bar, making us elevated.
+  - We now have that wire ziptied to the front plate to guarantee elevation
+- 
