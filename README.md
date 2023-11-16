@@ -28,6 +28,12 @@ Coach: Andy Robotham
 
 [November 7](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#november-7-2023)
 
+.[November 9](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#november-9-2023)
+
+.[November 14](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#november-14-2023)
+
+.[November 15](https://github.com/jmdiegel707/Vex-2023-34-Notebook/blob/main/README.md#november-15-2023)
+
 #### About the Team
 - __Isaac:__ I am a sophmore in highschool. I play tennis on the Caledonia Varsity team. I also do marching band where I play the Bari Saxophone. I like to do cybersecurity related things as a hobby along with playing video games.
 - __James:__ I am also a sophmore at Caledonia. I'm on JV Tennis, Sypmphony Orchestra, and Vex Robotics! Originally in sixth grade, I joined robotics, introducing me to coding and putting me on my path to study software design past my high school education.
