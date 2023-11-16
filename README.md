@@ -131,10 +131,14 @@ Notes:
 ### November 9, 2023
 9th Practice
 
-This night we set the elevating mechanism into action. We built a bar with two sets of wheels on it. One with a motor attachted and for pressure. The wheels would push on the bar creating opposite forces. This would allow the robot to stay elevated even after the motors turned off. We got it built and attacked the bar to the side of the robot with a gear ratio to help flip it into place. When we went to elevate we discorvered that the axel was not strong enough. Seeing as we only have 5 minutes left to practice we packed up and decided to deal with it the next practice.
+This night we set the elevating mechanism into action. We started with an arm that we plan on mounting so that it folds out. There are two sets of wheels: one at the end, and one in the middle. The motor at the end has a motor atached to put the robot up the elevation bar, and the other has a makeshift locking mechanism to keep the bot from falling when the motor stops when the game ends. For the folding-out mechanism, we're using gear ratio to put less stress on the motor and axles while allowing for more torque, however, we still encountered axle warping.
 
 ### November 14, 2023
 10th Practice
 
+We changed to heavy duty axels for our elevating mechanism. This design change should hopefully allow for enough strength to stop the bending in the axel. When pushing the new high-strength axle through the two plates that make up our fold-out system, the axle experienced very high resistance. This wasn't a huge problem or obsticle, but we tried to fix it anyway. We couldn't quite tackle it, but we believe its caused by either: The two plates the axle's mounted on are at a slightly off angle, or the bearings- which when untightened relieve all stress on the axle- are the problem. We'll continue to explore this next practice.
+
 ### November 15, 2023
 11th practice
+
+Could not fix the resistance on the axle. Constructed a prototype locking mechanism for the elevation mechanism. It uses a gear and a plate locked in a position where the plate sticks into the teeth at an angle where they can slip past one way, but sticks straight into the teeth if they rotate the other way. x
