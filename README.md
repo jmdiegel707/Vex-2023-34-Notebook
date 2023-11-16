@@ -33,7 +33,7 @@ Coach: Andy Robotham
 - __James:__ I am also a sophmore at Caledonia. I'm on JV Tennis, Sypmphony Orchestra, and Vex Robotics! Originally in sixth grade, I joined robotics, introducing me to coding and putting me on my path to study software design past my high school education.
 
 #### August 30, 2023
-First Practice
+1st Practice
 
 Besides the program requirements like contracts, inventory, choosing competition dates, team name, and shirts, we jumped straight into the brainstorming phase. We started by analyzing this years game and picking out the main features to tackle:
 - Scoring
@@ -46,12 +46,12 @@ At face value the game seemed fairly simple and we couldn't see any exploits. We
 Quickly we discovered through other teams some exploits that may be used. They explained how a catapult could be used to launch preloads at high speeds to the other side, even during autonomous period (we have yet to reference the rules if this is legal). While there may not be much to combat this, we can add this to the list of factors to think of while designing.
 
 #### September 5, 2023
-Second Practice
+2nd Practice
 
 Because of the simple nature of our design, we sort of traded off work during this practice. For about the first half, Isaac built our chassis. We wanted our wheels exposed in order to climb over the middle bar easier. Because of this he took more time to reinforce the frame then we unspokenly traded off for James to assemble the wheels. After putting the wheels on, the bot seemed surprisingly sturdy and functional for the speed it was constructed. We threw together a simple drive code and while the tank drive (Left axis on controller controls left wheels; Right axis, right motors) functioned properly, the explicit side to side movements did not. When attempting to drive left, the robot spun counter-clockwise, and when going right, it did not move at all.
 
 #### September 12, 2023
-Third Practice
+3rd Practice
 
 We focused first on correcting mistakes from the first practice: Drive code, and a new problem we discovered, the exposed wheels allowed the axles to warp.
 After correcting the code, which took a few trips to the practice field, we had a fully fuctioning tank drive and explicit side to side working. With that out of the way, we focused on the wheel instability. This raised yet another problem: we need the front and back of the wheels exposed and further out than the rest of the bot to catch onto the middle bar properly. This was a simple enough fix as we added c-channels on either side of the bot to stabilize the wheels, then secured those bars with two more going perpendicular on top and on bottom of the robot to secure it to the chassis.
@@ -59,22 +59,22 @@ After correcting the code, which took a few trips to the practice field, we had 
 We then began brainstorming more efficient ways to get triballs over the middle bar, beacuse our bot can, but the balls don't always.
 
 #### September 14, 2023
-Fourth Practice
+4th Practice
 
 We spent the whole practice brainstorming (and a little bit of socializing) how to get triballs over the middle. While some were in the right orientation to slide right over, others would press under the bar, where they obviously won't fit. We decided we needed a plate on an incline that was just low enough to scoop under the ball. While that gets the balls unstuck and pushes them up as you drive towards the mid-bar, the ball sometimes fell back onto our bot and gets stuck there. We eventually realized we needed a second vertical plate about an inch behind the first inclined one to help fully push the ball over the middle.
 
 #### September 19, 2023
-Fifth Practice
+5th Practice
 
 We constructed the buldozer design we dicussed last practice. It took us longer than it should have.
 
 #### September 26, 2023
-Sixth Practice
+6th Practice
 
 Tonight was a brainstorming night. With our bot fairly stable, we needed to expand. We mainly brainstormed ideas for elevating the robot and a little about a catapult.
 
 #### October 3, 2023
-Seventh Practice
+7th Practice
 
 This notebook was originally written poorly, so while Isaac looked at videos of other programs and teams' bots for ideas, James rewrote the previous few practices.
 Later, we  began looking into the programming. While our wheels give us the capability to strafe and move in 4 dementions, we were only taking advantage of forward/backward movement, and inherintly turning. We found a useful diagram of all the movement that mecanum wheels offer:
@@ -84,7 +84,7 @@ Later, we  began looking into the programming. While our wheels give us the capa
 Using these, we set up the program so the horizontal and vertical axis on the controller correspond to different variables in the code. We went through 6 or 7 different relationships before we reached a working program. The bot can now strafe.
 
 #### October 12, 2023
-First League Night
+1st League Night
 
 Notes:
 - Accidentally violated double-zoning rule.
@@ -93,7 +93,7 @@ Notes:
 - Rear supporting bar of the chassis became _very_ concaved by the end of the night; Brings up the thought of reinforcing/re-designing the chassis
 
 #### October 17, 2023
-Eighth Practice
+8th Practice
 
 Tonight's focus is on elevation. Currently our robot's only funtion is pushing balls, so the next step is elevating the robot. 
 
@@ -108,19 +108,27 @@ Given that
 Thoughts on elevation:
 In our first league the other night, we saw many robot try to do essentially a pull-up on the horizontal part of the elevation bar, but they weren't strong enough to hold. Plus, when the match ends, the motors deactivate, so breaks don't work either. Isaac proposed a mechanism that uses tension like a tree stand does.
 
-![](assets/RE557-120719-4403-WEB_1200x1200.webp)
-
 #### October 26, 2023
-Second League Night
+2nd League Night
 
 Notes: We learned more about the rules and the strategy involved with playing the game.
 
 ### Novemeber 7, 2023
-Third League Night
+3rd League Night
 
 Notes:
 - Able to elevate by balancing between the two perpendicular black bars.
   - Due to the concavity of the plate on the front of our bot, it wasn't originally touching the colored elevation bar.
   - One round, a wire sticking out front (not in jeporady of getting stuck in mechanics) touched the elevation bar, making us elevated.
   - We now have that wire ziptied to the front plate to guarantee elevation
-- 
+
+### November 9, 2023
+9th Practice
+
+This night we set the elevating mechanism into action. We built a bar with two sets of wheels on it. One with a motor attachted and for pressure. The wheels would push on the bar creating opposite forces. This would allow the robot to stay elevated even after the motors turned off. We got it built and attacked the bar to the side of the robot with a gear ratio to help flip it into place. When we went to elevate we discorvered that the axel was not strong enough. Seeing as we only have 5 minutes left to practice we packed up and decided to deal with it the next practice.
+
+### November 14, 2023
+10th Practice
+
+### November 15, 2023
+11th practice
