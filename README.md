@@ -141,4 +141,4 @@ We changed to heavy duty axels for our elevating mechanism. This design change s
 ### November 15, 2023
 11th practice
 
-Could not fix the resistance on the axle. Constructed a prototype locking mechanism for the elevation mechanism. It uses a gear and a plate locked in a position where the plate sticks into the teeth at an angle where they can slip past one way, but sticks straight into the teeth if they rotate the other way. x
+Could not fix the resistance on the axle. Constructed a prototype locking mechanism for the elevation mechanism. It uses a gear and a plate locked in a position where the plate sticks into the teeth at an angle where they can slip past one way, but sticks straight into the teeth if they rotate the other way. 
